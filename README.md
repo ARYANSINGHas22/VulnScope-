@@ -1,2 +1,2 @@
 # VulnScope-
-SOC lab integrated with WAZUH,ELK and SOAR capabilities
+A repo for submitting and demonstrating my penetration testing and SOC skill.
